@@ -1,4 +1,4 @@
-//--Requirements:
+// Requirements:
 //* Use a `switch` statement to print the following:
 //  - "newborn" when age is 0
 //  - "toddler" when age is 1, 2, or 3
